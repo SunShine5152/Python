@@ -1,7 +1,5 @@
-i = 1
-print ('i love you')
-while(i==1):
-    print ('hello')
-    
-    
-    
+x=1
+y=2
+z=3
+x,y,z=z,x,y
+print(x,y,z)
